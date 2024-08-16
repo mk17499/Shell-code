@@ -31,9 +31,4 @@ This project involves the design and implementation of a custom Linux shell. The
 - **Operating System:** Linux or any Unix-like system.
 - **Compiler:** GCC or any C compiler that supports POSIX standards.
 
-## Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/custom-linux-shell.git
-   cd custom-linux-shell
